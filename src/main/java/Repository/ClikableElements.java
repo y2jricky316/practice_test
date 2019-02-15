@@ -1,0 +1,7 @@
+package Repository;
+
+public enum ClikableElements {
+
+	HAMBURGER_MENU, SETTINGS, COUNTRY_REGION_BTN, AUTO_DETECT_TOGGLE_BTN, LED_TV, OK_BTN, CONTINUE_BTN;
+
+}
